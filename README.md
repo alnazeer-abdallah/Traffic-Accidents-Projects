@@ -12,6 +12,8 @@ Duplicate values were removed from all tables using their Accident_Index, road s
 
 ## Data Analysis and Result
 
+![Traffic accidents](https://github.com/user-attachments/assets/413a7476-75b9-4d07-9737-b7b084587d1e)
+
 1.	Slight casualties are the most prevalent type of accident, accounting for 84% of all cases. Serious casualties follow at 14%, while fatal casualties are the least frequent, representing 2% of accidents.
 2.	Single carriageway roads have the highest number of accidents compared to other road types.
 3.	Daylight accidents are more than twice as common as those occurring in darkness.
